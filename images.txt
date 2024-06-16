@@ -1,7 +1,3 @@
-nginx
 #支持私库
-xhofe/alist:latest
-xiaoyaliu/alist:latest
-xiaoyaliu/alist:hostmode
-xiaoya-tvbox
+haroldli/xiaoya-tvbox
 #支持指定架构
