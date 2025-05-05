@@ -1,3 +1,4 @@
 #支持私库
 haroldli/xiaoya-tvbox
+dzhuang/tinymediamanager
 #支持指定架构
